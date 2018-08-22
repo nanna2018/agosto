@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 3 ana ana 4096 ago 22 08:53 ./
+drwxr-xr-x 9 ana ana 4096 ago 22 08:12 ../
+-rw-r--r-- 1 ana ana 1024 ago 22 08:38 .1.swp
+-rw-r--r-- 1 ana ana 1392 ago 22 08:38 adios
+-rw-r--r-- 1 ana ana 2542 ago 22 08:37 adios1
+-rw-r--r-- 1 ana ana    6 ago 22 08:14 f1
+-rw-r--r-- 1 ana ana   15 ago 22 08:39 f2
+-rw-r--r-- 1 ana ana    0 ago 22 08:53 f4
+drwxr-xr-x 8 ana ana 4096 ago 22 08:51 .git/
